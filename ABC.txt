@@ -1,2 +1,4 @@
 This is Sample1.
 Asked to add comment1
+
+made to check merge conflict 1

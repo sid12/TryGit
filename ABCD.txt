@@ -4,3 +4,5 @@ added a sample comment.
 adding comment2
 change in other branch.
 i can work in branch fix1.
+
+to test merge conflict 1
