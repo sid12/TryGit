@@ -3,4 +3,4 @@ This is Sample2.
 added a sample comment.
 adding comment2
 change in other branch.
-i can work in branch fix_reason_for_conflict.
+
